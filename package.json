@@ -1,6 +1,6 @@
 {
   "name": "catullus",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "catullus is a transpiler which can compile the code of javascript with the latest syntax to compatible mode.",
   "keywords": [
     "babel tool",

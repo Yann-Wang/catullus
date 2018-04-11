@@ -8,6 +8,9 @@
     npm install catullus --save
 ```
 
+### environment
+- the node version which is more than 6.9.0 is supported, the lower node version need to be tested.
+
 ### usage
 - use it in the package.json as follows.
 ```json
