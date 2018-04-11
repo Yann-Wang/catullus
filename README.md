@@ -1,3 +1,7 @@
+[![NPM](http://nodei.co/npm/catullus.png?downloads=true)](http://nodei.co/npm/catullus/)
+
+[![NPM version](https://img.shields.io/npm/v/catullus.svg)]()
+
 
 - catullus is a transpiler which can compile the code of javascript with the latest syntax to compatible mode.
 
