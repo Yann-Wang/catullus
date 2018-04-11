@@ -1,0 +1,22 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "targets": {
+                    "node": "6.9"
+                }
+            }
+        ]
+    ],
+    "plugins": [
+        "transform-object-rest-spread",
+        "transform-decorators-legacy",
+        "add-module-exports"
+    ],
+    "env": {
+        "development": {
+            "sourceMaps": "inline"
+        }
+    }
+}
