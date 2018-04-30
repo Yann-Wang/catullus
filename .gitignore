@@ -2,3 +2,4 @@ node_modules/
 test/
 !test/middleware/
 !test/package.json
+yarn-error.log

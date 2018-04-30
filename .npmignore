@@ -3,3 +3,6 @@ test/
 .eslintignore
 .editorconfig
 .gitignore
+.babelrc
+yarn.lock
+yarn-error.log
